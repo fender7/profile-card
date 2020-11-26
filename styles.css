@@ -1,6 +1,6 @@
 body{
   margin: 0;
-  background-image: url(images/bg-pattern-bottom.svg);
+  background-image: url(bg-pattern-bottom.svg);
   background-color: #00adb5;
   font-family: 'Kumbh Sans', sans-serif;
 }
@@ -26,7 +26,7 @@ h2{
 }
 
 .card .top{
-  background-image: url(images/bg-pattern-card.svg);
+  background-image: url(bg-pattern-card.svg);
   border-top-right-radius: inherit;
   border-top-left-radius: inherit;
   height:10rem;
